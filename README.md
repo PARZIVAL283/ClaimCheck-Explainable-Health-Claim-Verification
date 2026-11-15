@@ -90,12 +90,13 @@ Explanation generator
 
 | Model | Accuracy | Macro F1 | Notes |
 |---|---:|---:|---|
-| TF-IDF + Logistic Regression | `[INSERT]` | `[INSERT]` | Baseline |
-| DistilBERT fine-tuned | `[INSERT]` | `[INSERT]` | Main model |
+| TF-IDF + Logistic Regression | `0.593` | `0.4605` | Baseline |
+| DistilBERT fine-tuned | `0.637 ` | `0.3711` | Main model |
 
 ### Confusion matrix
 
-![Confusion Matrix](outputs/figures/confusion_matrix.png)
+<img width="657" height="590" alt="image" src="https://github.com/user-attachments/assets/132fef43-d02d-40a0-8bdd-bc9ba287fa14" />
+
 
 ### Key observations
 
