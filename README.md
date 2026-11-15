@@ -129,13 +129,18 @@ Explanation generator
 **Input claim:**
 
 ```text
-
+Smoking increases the risk of lung cancer.
 ```
 
 **Example output:**
 
 ```text
+Verdict: MIXTURE
+Confidence: 27.1%
 
+Assessment: This claim contains both supported and unsupported elements.
+
+Important: ClaimCheck is an educational tool. It does not provide medical advice. Consult a qualified healthcare professional for personal medical decisions.
 ```
 
 ## Tech Stack
