@@ -216,6 +216,8 @@ This project is released under the MIT License.
 
 Data Science / NLP / AI Enthusiast Student 
 
+GitHub: https://github.com/PARZIVAL283
+
 Email: sourodipdasgupta283@gmail.com
 
 linkedIn: www.linkedin.com/in/sourodip-das-gupta-3b97a62a6
